@@ -44,5 +44,7 @@ type MyType = string;
 let customType: MyType;
 customType = "This is custom type!";
 
+console.log(customType);
+
 
 
