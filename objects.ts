@@ -1,5 +1,5 @@
 //Simple object
-let user = {
+let userN = {
     name: 'Veronica',
     age: 22,
 };
