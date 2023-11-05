@@ -3,9 +3,6 @@ class User {
     private lastname: string;
     private age;
 
-    public constructor() {
-    }
-
     public constructor(firstname: string, lastname: string, age: number) {
         this.firstname = firstname;
         this.lastname = lastname;
