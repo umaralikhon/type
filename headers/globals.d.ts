@@ -1,0 +1,1 @@
+declare let message: string;
